@@ -41,9 +41,10 @@ body {
     width: 200px;
     height: 200px;
     float: left;
+    margin-right: 15px;
 }
 
-p {
+.wrapthis {
     float: left;
 }
 
@@ -98,6 +99,10 @@ p {
 .opera {
     width: 237px;
     height: 200px;
+}
+
+.card {
+    border-radius: 0;
 }
 
 .picline1 {
