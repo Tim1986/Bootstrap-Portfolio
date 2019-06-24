@@ -1,0 +1,132 @@
+body {
+    background-image: url("images/interlaced.png");
+}
+
+.navbar {
+    margin: 0%;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+.navbar-nav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #ffffff;
+}
+
+.name {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    padding: 15px;
+}
+
+.header {
+    background-color: white;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+.mainpic {
+    width: 200px;
+    height: 200px;
+}
+
+.sectionlist {
+    background-color: white;
+}
+
+p {
+    background-color: white;
+}
+
+.mainarea {
+    background-color: white;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+}
+
+.footer {
+    background-color: #666666;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    text-align: center; 
+    border-top: 10px solid #4aaaa5;
+}
+
+.deer {
+    width: 237px;
+    height: 200px;
+}
+
+.pig {
+    width: 237px;
+    height: 200px;
+}
+
+.rainbow {
+    width: 237px;
+    height: 200px;
+}
+
+.bread {
+    width: 237px;
+    height: 200px;
+}
+
+.opera {
+    width: 237px;
+    height: 200px;
+}
+
+.picline1 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 237px;
+}
+
+.picline2 {
+    background-color: #4aaaa5;
+    color: white;
+    width: 237px;
+    text-align: center;
+}
+
+.picline3 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 237px;
+}
+
+.picline4 {
+    background-color: #4aaaa5;
+    color: white;
+    width: 237px;
+    text-align: center;
+}
+
+.picline5 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 237px;
+}
+
+.card-img-overlay {
+    padding-left: 0%;
+}
+
+.btn {
+    background-color: #4aaaa5;
+}
