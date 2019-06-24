@@ -15,13 +15,13 @@ body {
     color: #ffffff;
     background-color: #4aaaa5;
     font-family: 'Georgia', Times, "Times New Roman", serif;
+    padding-right: 570px;
 }
 
 .navbar-nav {
     padding-top: 15px;
     padding-bottom: 15px;
     background-color: #ffffff;
-    padding-left: 570px;
 }
 
 .name {
@@ -142,6 +142,10 @@ p {
 
 .card-img-overlay {
     padding-left: 0%;
+}
+
+.col-xs-12 {
+    margin-bottom: 15px;
 }
 
 .card {
