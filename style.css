@@ -130,3 +130,10 @@ p {
 .btn {
     background-color: #4aaaa5;
 }
+
+@media screen and (max-width: 667px) {
+    body {
+        width: 100%;
+        margin: 0;
+    }
+}
