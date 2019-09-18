@@ -15,13 +15,19 @@ body {
     color: #ffffff;
     background-color: #4aaaa5;
     font-family: 'Georgia', Times, "Times New Roman", serif;
-    margin-right: 570px;
+    margin-right: 100px;
+}
+
+.headrow {
+    width: 100%;
+    margin: 0%;
 }
 
 .navbar-nav {
     padding-top: 15px;
     padding-bottom: 15px;
     background-color: #ffffff;
+    margin-right: 10px;
 }
 
 .name {
@@ -155,20 +161,3 @@ p {
 .btn {
     background-color: #4aaaa5;
 }
-
-/* @media screen and (max-width: 667px) {
-    body {
-        width: 100%;
-        margin: 0;
-    }
-
-    .navbar {
-        width: 100%;
-        margin: 0;
-    }
-
-    .container {
-        width: 100%;
-        margin: 0;
-    }
-} */
